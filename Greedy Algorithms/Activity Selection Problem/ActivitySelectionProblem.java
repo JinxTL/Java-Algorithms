@@ -17,6 +17,8 @@ import java.util.Random;
 public class ActivitySelectionProblem {
     
     public static void selectActivities() {
+        
+        //arraylist
 
         ArrayList<Activity> activities = new ArrayList<Activity>();
 
