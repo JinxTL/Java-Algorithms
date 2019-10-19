@@ -18,7 +18,7 @@ public class ActivitySelectionProblem {
     
     public static void selectActivities() {
         
-        //arraylist
+        // use of arraylist 
 
         ArrayList<Activity> activities = new ArrayList<Activity>();
 
